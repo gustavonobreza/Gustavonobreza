@@ -1,6 +1,5 @@
 ### Olá!!! 👋
-![Snop Dog](https://gamespot1.cbsistatic.com/uploads/original/1509/15095097/2912230-4042215536-853.g.gif)
-<!--
+![Hello!](https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif)
 **Gustavonobreza/Gustavonobreza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
