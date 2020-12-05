@@ -1,11 +1,14 @@
 # Hi, really great to see you!!!
 ## <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100px">
-## A little about myself :point_down: 
 
-### :watch: I'm seventeen years old.
-### 🌱 See what I’m currently learning  [here](./myStacks.md).
-### 🎯 2021 Goals: Learn well ReactJS, Docker, Kubernetes and improve my english.
-### ⚡ Fun fact: I spent a whole night trying to solve a bug and it was just a semicolon in the middle of the code
+<br />
+
+### A little about myself :point_down: 
+
+- ### :watch: I'm seventeen years old.
+- ### 🌱 See what I’m currently learning  [here](./myStacks.md).
+- ### 🎯 2021 Goals: Learn well ReactJS, Docker, Kubernetes and improve my english.
+- ### ⚡ Fun fact: I spent a whole night trying to solve a bug and it was just a semicolon in the middle of the code
 
 <br/>
 <br/>
