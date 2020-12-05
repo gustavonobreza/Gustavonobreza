@@ -1,7 +1,8 @@
 # Hi, really great to see you!!!
-## <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif">
+## <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100px">
+## A little about myself :point_down: 
 
-### 🌱 See what I’m currently learning (./myGoals.md)[here].
+### 🌱 See what I’m currently learning  [here](./myStacks.md).
 ### 🎯 2021 Goals: Learn well ReactJS, Docker, Kubernetes and improve my english.
 ### ⚡ Fun fact: I spent a whole night trying to solve a bug and it was just a semicolon in the middle of the code
 
