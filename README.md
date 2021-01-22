@@ -1,4 +1,3 @@
-# Hi, really great to see you!!!
 <!-- ## <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width="100px"> -->
 <img src="./Teste-background.jpg">
 <br />
