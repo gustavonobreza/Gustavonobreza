@@ -13,10 +13,10 @@
 
 ## Libs and Frameworks:
 
-<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="85px" src="https://expressjs.com/images/express-facebook-share.png" /></a>
+<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="85px" src="https://icon2.cleanpng.com/20180614/bvu/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d5187a71.0203114615290024531003.jpg" /></a>
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="ReactJS" width="85px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"/></a>
 <a href="https://www.prisma.io/" target="_blank"><img align="left" alt="PrismaJS" width="85px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"/></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="75px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/></a><br>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="75px" src="https://nextjscourse.com/img/next.svg"/></a><br>
 <br>
 
 ## Softwares:
