@@ -11,15 +11,20 @@
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" width="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" width="35px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/> </a><br>
 
+## Libs and Frameworks:
+
+<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="35px" src="https://expressjs.com/images/express-facebook-share.png" /></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="ReactJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="35px" src="https://media.zeemly.com/zeemly/product/vercel.png"/></a><br>
+
 ## Softwares:
 
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 <a href="https://www.postgresql.org/" target="_blank"><img align="left" alt="PostgresSQL" width="35px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"/></a>
-<a href="https://dbeaver.com/" target="_blank"><img align="left" alt="DBeaver" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"/></a><br>
+<a href="https://dbeaver.com/" target="_blank"><img align="left" alt="DBeaver" width="35px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"/></a><br>
 
 
 ## Skills:
 
 <a href="https://github.com/microsoft/terminal" target="_blank"><img align="left" alt="Terminal" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/></a>
 <br>
-
