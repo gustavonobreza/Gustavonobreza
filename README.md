@@ -15,8 +15,9 @@
 
 <a href="https://expressjs.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="65px" src="https://expressjs.com/images/express-facebook-share.png" /></a>
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="ReactJS" width="65px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"/></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="65px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"/></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/></a><br>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="65px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"/></a><br>
+<br>
 
 ## Softwares:
 
