@@ -32,7 +32,7 @@
 
 ## Interests:
 
-- ### <img align="left" alt="DBeaver" width="45px" src="https://www.flaticon.com/premium-icon/icons/svg/1458/1458497.svg"/> Clean Code<br>
-- ### <img align="left" alt="DBeaver" width="45px" src="https://codersopinion.com/images/posts/clean-architecture/clean-architecture.png"/> Clean Architecture<br>
-- ### <img align="left" alt="DBeaver" width="45px" src="https://static.wikia.nocookie.net/lpunb/images/e/e4/Gopher2.png/revision/latest?cb=20201126202523"/> Golang<br>
-- ### <img align="left" alt="DBeaver" height="45px" src="https://hotmart.s3.amazonaws.com/product_contents/ca78b04d-8f82-4c08-9694-3e0a119a05d0/python.png"/> Python<br>
+- ### <img align="left" alt="DBeaver" width="45px" src="https://www.flaticon.com/premium-icon/icons/svg/1458/1458497.svg"/> Clean Code<br><br>
+- ### <img align="left" alt="DBeaver" width="45px" src="https://codersopinion.com/images/posts/clean-architecture/clean-architecture.png"/> Clean Architecture<br><br>
+- ### <img align="left" alt="DBeaver" width="45px" src="https://static.wikia.nocookie.net/lpunb/images/e/e4/Gopher2.png/revision/latest?cb=20201126202523"/> Golang<br><br>
+- ### <img align="left" alt="DBeaver" height="45px" src="https://hotmart.s3.amazonaws.com/product_contents/ca78b04d-8f82-4c08-9694-3e0a119a05d0/python.png"/> Python<br><br>
