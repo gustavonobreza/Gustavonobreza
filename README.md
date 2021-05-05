@@ -13,9 +13,9 @@
 
 ## Libs and Frameworks:
 
-<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="35px" src="https://expressjs.com/images/express-facebook-share.png" /></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="ReactJS" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="35px" src="https://media.zeemly.com/zeemly/product/vercel.png"/></a><br>
+<a href="https://expressjs.com/" target="_blank"> <img align="left" alt="Visual Studio Code" height="45px" src="https://expressjs.com/images/express-facebook-share.png" /> </a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" height="45px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Nextjs" height="65px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/> </a><br>
 
 ## Softwares:
 
