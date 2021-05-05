@@ -13,10 +13,11 @@
 
 ## Libs and Frameworks:
 
-<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Visual Studio Code" height="45px" src="https://expressjs.com/images/express-facebook-share.png" /></a>
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="ReactJS" height="45px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"/></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" height="65px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/></a><br>
-<br>
+<a href="https://expressjs.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="65px" src="https://expressjs.com/images/express-facebook-share.png" /></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="ReactJS" width="65px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"/></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg"/></a><br>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Nextjs" width="65px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"/></a><br>
+
 ## Softwares:
 
 <a href="https://code.visualstudio.com/" target="_blank"><img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
