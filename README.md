@@ -10,6 +10,7 @@
 
 ## Libs and Frameworks:
 
+<a href="https://nestjs.com/" target="_blank"> <img align="left" alt="NestJS" width="55px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /></a>
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="ExpressJS" width="85px" src="https://icon2.cleanpng.com/20180614/bvu/kisspng-node-js-express-js-javascript-solution-stack-web-a-5b22b9d5187a71.0203114615290024531003.jpg" /></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" width="130px" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"/></a>
 <a href="https://www.prisma.io/" target="_blank"> <img align="left" alt="PrismaJS" width="120px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"/></a>
