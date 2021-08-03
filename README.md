@@ -20,7 +20,7 @@
 ## Softwares:
 
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="Visual Studio Code" width="55px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
-<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgresSQL" width="55px" src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png"/></a>
+<a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgresSQL" width="55px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-original.svg"/></a>
 <a href="https://dbeaver.com/" target="_blank"> <img align="left" alt="DBeaver" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"/></a><br><br>
 
 ## Skills:
