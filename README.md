@@ -16,6 +16,7 @@
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="ExpressJS" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg" /></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg"/></a>
 <a href="https://www.prisma.io/" target="_blank"> <img align="left" alt="PrismaJS" width="135px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"/></a>
+<a href="https://typeorm.io/" target="_blank"> <img align="left" alt="TypeORM" width="65px" src="./images/TypeORM.png"/></a>
 <a href="https://nextjs.org/" target="_blank"> <img align="left" alt="Nextjs" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nextjs/nextjs-original.svg"/></a><br>
 <br>
 
@@ -32,14 +33,14 @@
 
 ## Interests:
 
-### <img align="left" alt="Golang" width="80px" src="./images/golang.svg"/> Golang
+### <a href="https://golang.org/"><img align="left" alt="Golang" width="80px" src="./images/golang.svg"/></a> Golang
 <br><br>
 
-### <img align="left" alt="Python" height="80px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> Python
+### <a href="https://www.python.org/"><img align="left" alt="Python" height="80px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> </a> Python
 <br><br>
 
-### <img align="left" alt="Clean Code" width="80px" src="https://camo.githubusercontent.com/df3b1516092ab33651c033aaabe229a471c436fa55267ca3f7014d274554c797/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7072656d69756d2d69636f6e2f69636f6e732f7376672f313435382f313435383439372e737667"/> Clean Code
+### <a href="https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/"><img align="left" alt="Clean Code" width="80px" src="https://camo.githubusercontent.com/df3b1516092ab33651c033aaabe229a471c436fa55267ca3f7014d274554c797/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7072656d69756d2d69636f6e2f69636f6e732f7376672f313435382f313435383439372e737667"/></a> Clean Code
 <br><br>
 
-### <img align="left" alt="Clean Architecture" width="80px" src="./images/image.png"/> Clean Architecture
+### <a href="https://www.amazon.com.br/Arquitetura-Limpa-Artes%C3%A3o-Estrutura-Software/dp/8550804606/"><img align="left" alt="Clean Architecture" width="80px" src="./images/image.png"/></a> Clean Architecture
 <br><br>
