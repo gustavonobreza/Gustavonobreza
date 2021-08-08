@@ -32,14 +32,14 @@
 
 ## Interests:
 
+### <img align="left" alt="Golang" width="80px" src="./images/golang.svg"/> Golang
+<br><br>
+
+### <img align="left" alt="Python" height="80px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> Python
+<br><br>
+
 ### <img align="left" alt="Clean Code" width="80px" src="https://camo.githubusercontent.com/df3b1516092ab33651c033aaabe229a471c436fa55267ca3f7014d274554c797/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7072656d69756d2d69636f6e2f69636f6e732f7376672f313435382f313435383439372e737667"/> Clean Code
 <br><br>
 
 ### <img align="left" alt="Clean Architecture" width="80px" src="./images/image.png"/> Clean Architecture
-<br><br>
-
-### <img align="left" alt="Golang" width="80px" src="https://static.wikia.nocookie.net/lpunb/images/e/e4/Gopher2.png/revision/latest?cb=20201126202523"/> Golang
-<br><br>
-
-### <img align="left" alt="Python" height="80px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/> Python
 <br><br>
