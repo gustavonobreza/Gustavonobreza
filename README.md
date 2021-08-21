@@ -29,7 +29,9 @@
 ## Skills:
 
 <a href="https://github.com/microsoft/terminal" target="_blank"> <img align="left" alt="Terminal" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png"/></a>
-<br>
+
+<a href="https://www.heroku.com" target="_blank"> <img align="left" alt="Heroku" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/heroku/heroku-plain.svg"/></a>
+<br><br>
 
 ## Interests:
 
