@@ -7,7 +7,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img alt="CSS3" width="40px"  align="left" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg"/></a>
 <a href="https://redis.io/" target="_blank"> <img alt="Redis" align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/redis/redis-original.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img alt="Git" width="40px"  align="left" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg"/> </a>
-<a href="https://github.com/" target="_blank"> <img alt="GitHub"  align="left" width="40px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/> </a><br>
+<a href="https://github.com/" target="_blank"> <img alt="GitHub"  align="left" width="40px" src="https://raw.githubusercontent.com/gustavonobreza/Gustavonobreza/main/images/github.svg"/> </a><br>
 <br>
 
 ## Libs and Frameworks:
