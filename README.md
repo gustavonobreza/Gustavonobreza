@@ -36,6 +36,6 @@
 ## Interests:
 
 <p>
-  <img alt="Golang" width="80px" align="left" src="https://raw.githubusercontent.com/gustavonobreza/Gustavonobreza/main/images/golang.svg"/> 
-  <img alt="Python" width="65px" align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+  <a href="https://golang.org/"> <img alt="Golang" width="80px" align="left" src="https://raw.githubusercontent.com/gustavonobreza/Gustavonobreza/main/images/golang.svg"/> </a>
+  <a href="https://www.python.org/"> <img alt="Python" width="65px" align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></a>
 </p>
