@@ -40,4 +40,8 @@
   <a href="https://www.python.org/"> <img alt="Python" width="65px" align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/></a>
 </p>
 
-###### By Gustavo Alexandre Nobre Mesquita
+<br>
+<br>
+<br>
+
+###### by Gustavo Alexandre Nobre Mesquita
