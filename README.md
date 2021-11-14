@@ -12,7 +12,7 @@
 
 ## Libs and Frameworks:
 
-<a href="https://nestjs.com/" target="_blank"> <img align="left" alt="NestJS" width="65px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /></a>
+<a target="_blank" href="https://nestjs.com/" target="_blank"> <img align="left" alt="NestJS" width="65px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /></a>
 <a href="https://expressjs.com/" target="_blank"> <img align="left" alt="ExpressJS" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/express/express-original.svg" /></a>
 <a href="https://reactjs.org/" target="_blank"> <img align="left" alt="ReactJS" width="65px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original.svg"/></a>
 <a href="https://www.prisma.io/" target="_blank"> <img align="left" alt="PrismaJS" width="135px" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg"/></a>
