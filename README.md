@@ -1,6 +1,6 @@
 ## Languages and Tools:
 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img alt="TypeScript" width="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg"/> </a>
+<a target="_blank" href="https://www.typescriptlang.org/" target="_blank"> <img alt="TypeScript" width="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg"/> </a>
 <a href="https://developer.mozilla.org/" target="_blank"> <img alt="JavaScript" width="40px"  align="left" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img alt="NodeJS" width="40px"  align="left" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-original.svg"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img alt="HTML5" width="40px"  align="left" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" /> </a>
