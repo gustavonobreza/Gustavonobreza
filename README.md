@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/gustavonobreza"><img src="https://api.daily.dev/devcards/a20533533569487d8a6d4165cadb39f5.png?r=n44" width="400" alt="Gustavo Alexandre Nobre Mesquita's Dev Card"/></a>
 ## Languages and Tools:
 
 <a target="_blank" href="https://www.typescriptlang.org/" target="_blank"> <img alt="TypeScript" width="40px" align="left" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg"/> </a>
